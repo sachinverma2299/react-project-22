@@ -1,0 +1,75 @@
+.tablestyle {
+    margin: 5rem;
+    background-color: whitesmoke;
+    /* border: 5px solid black; */
+    border-radius: 0.5rem;
+    box-shadow: 0 15px 15px 0 black, 0 15px 15px 0 black;
+}
+
+/* .itemsHeader {
+    margin-top: 2rem;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #1C15A6;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    color: #e0dfdc;
+    letter-spacing: .1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0, 0, 0, 0.9);
+    color: #e0dfdc;
+} */
+.cardstyle {
+    width: 18rem;
+    margin: 0.5rem;
+    box-shadow: 0 15px 15px 0 black, 0 15px 15px 0 black;
+    margin: 15px;
+}
+.cardstyle:hover{
+    transform: scale(1.1);
+}
+.cardblockstyle {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0%;
+}
+.navbrand {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: royalblue;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+.navbrand:hover {
+    text-shadow: 2px 2px 8px white;
+}
+.employee-div{
+    background-color: wheat;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fontdiv{
+    font-size: large;
+}
+.filter{
+    background-color: rgb(197, 144, 250);
+    /* margin: 5px; */
+    padding: 0px;
+}
+.filter_element{
+    background-color: rgb(226, 207, 244);
+    margin: 2px;
+    border-radius: 7px;
+}

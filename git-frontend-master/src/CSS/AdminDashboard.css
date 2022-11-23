@@ -1,0 +1,296 @@
+.back-image-dash {
+  background-image: url("https://images.unsplash.com/photo-1614849286447-fb815456e5a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+}
+
+.back-image {
+  background: radial-gradient(circle, rgba(154,241,237,1) 0%, rgba(106,189,170,1) 48%, rgba(107,203,163,1) 77%, rgba(110,236,147,1) 100%);
+}
+
+.pic-admin {
+  width: 100%;
+  height: 50%;
+}
+
+.container-admin {
+  position: relative;
+  width: 50%;
+  max-width: 400px;
+  margin-left: 35%;
+}
+
+.container-admin img {
+  width: 100%;
+  height: auto;
+}
+
+.container-admin .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container-admin .btn:hover {
+  background-color: black;
+}
+
+.link-admin {
+  text-decoration: none;
+  color: inherit;
+}
+
+.admin-colour-container {
+  background-color: #00754e;
+  background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.container-admin img {
+  width: 100%;
+  height: auto;
+}
+
+.c-2 {
+  margin-left: 35%;
+}
+
+.two {
+  background-color: #3e0047;
+  background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.admin-text {
+  color: azure;
+  /* float: left; */
+}
+
+.text {
+  color: palevioletred
+}
+
+.card-1 {
+  background-color: #00754e;
+}
+
+.card-2 {
+  background-color: rgb(98, 98, 114);
+}
+
+.card-3 {
+  background-color: aquamarine;
+}
+
+.card-4 {
+  background-color: yellowgreen;
+}
+
+.card-icon {
+  font-size: large;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.admin-cont {
+  height: 20%;
+  width: 60%;
+  background-color: rgb(131, 131, 118);
+  border: 2px black;
+  float: left
+}
+
+.admin-cont-two {
+  height: 40%;
+  width: 60%;
+
+}
+
+.admin-cont-pic {
+  width: 100%;
+  height: auto;
+  background-color: rgb(61, 47, 47);
+  margin-left: 30%;
+}
+
+.month {
+  padding: 70px 25px;
+  width: 100%;
+  height: 20;
+  background: #1abc9c;
+  text-align: center;
+}
+
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
+
+.month .next {
+  float: right;
+  padding-top: 10px;
+}
+
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #ddd;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  color: #666;
+  text-align: center;
+}
+
+.days {
+  padding: 10px 0;
+  background: #eee;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 12px;
+  color: #777;
+}
+
+.days li .active {
+  padding: 5px;
+  background: #1abc9c;
+  color: white !important
+}
+
+
+.day-month {
+  height: 40%;
+  width: 40%;
+
+}
+
+.text-shruthi {
+  text-shadow: 5px 5px 10px black;
+  font-size: 30px;
+}
+
+
+.entry-text {
+  margin-left: 5px;
+}
+
+
+.text-admin-dash {
+  font-size: xx-large;
+
+  /* text-shadow: 5px 5px 10px black; */
+}
+
+.pic-admin {
+  width: 100%;
+  height: 50%;
+}
+
+.container-admin {
+  position: relative;
+  width: 50%;
+  max-width: 400px;
+  margin-left: 35%;
+}
+
+.container-admin img {
+  width: 100%;
+  height: auto;
+}
+
+.container-admin .btn {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container-admin .btn:hover {
+  background-color: black;
+}
+
+.link-admin {
+  text-decoration: none;
+  color: inherit;
+}
+
+.admin-colour-container {
+  background-color: #00754e;
+  background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.container-admin img {
+  width: 100%;
+  height: auto;
+}
+
+.c-2 {
+  margin-left: 35%;
+}
+
+.two {
+  background-color: #3e0047;
+  background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.admin-text {
+  color: azure;
+  float: left;
+}
+
+.text {
+  color: palevioletred
+}
+
+.cardblockstyle {
+  margin-left: 10%
+}
+
+.card-hover {
+  box-shadow: 6px 6px 40px 10px #5F4B8BFF;
+  transform: translateX(0px);
+  transition: 1.1s all;
+}

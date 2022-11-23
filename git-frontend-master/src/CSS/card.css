@@ -1,0 +1,53 @@
+.card-colour{
+    margin-bottom: 10%;
+    padding: 15px;
+    background-color:rgb(61, 174, 234);
+  /* box-shadow: 10px 10px; */
+  border-radius: 25px;
+  width: 250px;
+  height: 300px;
+  margin: auto;
+
+
+}
+.wishlist-head,.apply-head{
+    background-color: blue;
+}
+.carddesign
+{
+  /* height: 60px; */
+  /* margin-left: 20px;
+   */
+   margin: auto;
+   /* width: 15%;
+    */
+    width: 250px;
+    border-radius: 20px;
+
+}
+.card-body
+{
+  color: white;
+  margin-top: 30px;
+  font-family: Georgia, serif;
+}
+.card-text
+{
+  color: white;
+  font-size: 15px
+}
+.funcin
+{
+  /* margin: auto;
+   */
+   /* padding: 20px; */
+   padding-left: 200px; 
+   padding-right: 10px;
+}
+.card-colour:hover
+{
+  box-shadow: 6px 6px 40px 10px #5F4B8BFF;
+  transform: translateX(0px);
+  transition: 1.1s all;
+
+}

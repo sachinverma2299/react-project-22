@@ -1,0 +1,10 @@
+.application-container{
+    align-items:"center";
+       padding: 30px;
+       height: 93vh;
+} 
+.application-items{
+ width: 100% ;
+    align-items:stretch;
+    justify-content:center
+}

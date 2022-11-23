@@ -1,0 +1,12 @@
+.uploadStyle {
+    /* background-color: wheat; */
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-top: 5rem;
+    padding: 10rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 15px 15px 0 black, 0 15px 15px 0 black;
+    /* Color code */
+    background: linear-gradient(45deg, #39e8b5 0%, #476cb0 100%)
+}
